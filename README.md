@@ -1,3 +1,5 @@
+check deze eerst!!! https://github.com/Shenaida/ci/blob/master/README.md
+
 # CiApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.15.
