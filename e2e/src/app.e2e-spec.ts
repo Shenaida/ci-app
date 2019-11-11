@@ -8,9 +8,9 @@ describe('workspace-project App', () => {
     page = new AppPage();
   });
 
-  it('should display welcome message', () => {
+  it('should display Klik op de link', () => {
     page.navigateTo();
-    expect(page.getTitleText()).toEqual('ci-app app is running!');
+    expect(page.getTitleText()).toEqual('Klik op de link');
   });
 
   afterEach(async () => {
